@@ -92,13 +92,13 @@
 
     header {
         padding: 3%;
-        margin-right: -32%;
+        margin-right: -31%;
     }
     
     
     main {
-        margin-left: 8%;
-        margin-right: -16%;
+        margin-left: 9%;
+        margin-right: -4%;
     }
     
     
@@ -116,7 +116,7 @@
     
     
     h1 {
-        font-size: 52px;
+        font-size: 42px;
         display: inline-block;
         margin-top: -2%;
         margin-left: 1%;
@@ -150,8 +150,8 @@
     
     video {
         width: 100%;      
-        max-width: 760px; 
-        height: 388px;
+        max-width: 510px; 
+        height: 348px;
     }
     
     
@@ -161,7 +161,7 @@
     
     
     footer {
-        margin-left: 38%;
+        margin-left: 34%;
         margin-top: 3%;
         font-size: 18px;
         margin-right: -12%;
@@ -185,7 +185,7 @@
     
     main {
         margin-left: 6%;
-        margin-right: -4%;
+        margin-right: 5%;
     }
     
     
@@ -203,7 +203,7 @@
     
     
     h1 {
-        font-size: 68px;
+        font-size: 58px;
         display: inline-block;
         margin-top: 1%;
         margin-left: 1%;
