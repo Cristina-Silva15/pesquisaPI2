@@ -1,4 +1,4 @@
-@media only screen and (max-width: 480px) {
+@media only screen and (min-width: 200px) and (max-width: 480px) {
     body, html {
         margin: 0;
         padding: 0;
@@ -30,7 +30,7 @@
     
     
     h1 {
-        font-size: 26px;
+        font-size: 22px;
         display: inline;
         margin-top: -19%;
         margin-left: 2%;
@@ -38,8 +38,8 @@
     
     
     .img {
-        width: 65px;
-        height: 65px;
+        width: 60px;
+        height: 60px;
         position: relative;
         margin-left: 1%;
         margin-top: -1%;
