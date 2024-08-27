@@ -30,7 +30,7 @@
     
     
     h1 {
-        font-size: 32px;
+        font-size: 26px;
         display: inline;
         margin-top: -19%;
         margin-left: 2%;
@@ -38,8 +38,8 @@
     
     
     .img {
-        width: 70px;
-        height: 70px;
+        width: 65px;
+        height: 65px;
         position: relative;
         margin-left: 1%;
         margin-top: -1%;
@@ -63,8 +63,8 @@
     
     video {
         width: 100%;      
-        max-width: 480px; 
-        height: 308px;
+        max-width: 470px; 
+        height: 213px;
     }
     
     
@@ -74,7 +74,7 @@
     
     
     footer {
-        margin-left: 30%;
+        margin-left: 28%;
         margin-top: 3%;
         font-size: 14px;
         margin-right: -24%;
